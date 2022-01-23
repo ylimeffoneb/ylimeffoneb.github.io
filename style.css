@@ -1,0 +1,27 @@
+h1 {
+  color:blue;
+  font-family:helvetica;
+  background-color: purple;
+  border: 10px solid fuchsia;
+  padding: 30px;
+}
+
+p {
+  color:pink;
+
+}
+#highlight {
+  color:orange;
+  background-color: green;
+  border: 2px dotted green;
+}
+
+body {background-color: green;
+}
+
+img {
+  background-color:purple;
+  border: 10px solid fuchsia;
+  padding: 30px;
+  margin-left: 75px;
+}
