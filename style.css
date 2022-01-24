@@ -11,12 +11,20 @@ p {
 
 }
 #highlight {
-  color:orange;
+  color:purple;
   background-color: green;
   border: 2px dotted green;
 }
 
 body {background-color: green;
+}
+
+h2 {
+  color:purple;
+  font-family:helvetica;
+  background-color:mediumseagreen;
+  border: 2px solid fuchsia;
+  padding: 20px;
 }
 
 img {
